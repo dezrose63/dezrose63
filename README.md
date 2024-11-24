@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🔭 I’m currently working on my BS in computer science.
+🌱 I’m currently learning how to be a Front End Developer on Scrimba.
 <!--
 **dezrose63/dezrose63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
