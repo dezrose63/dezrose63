@@ -1,6 +1,6 @@
 ## Hi there 👋
-🔭 I’m currently working on my BS in computer science.
-🌱 I’m currently learning how to be a Front End Developer on Scrimba.
+🔭 I’m currently working on my BS in computer science at Moorpark College, transferring to CSU Monterey Bay next semester.
+🌱 I’m currently learning how to be a Front End Developer with Udacity and OneTen.
 <!--
 **dezrose63/dezrose63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
